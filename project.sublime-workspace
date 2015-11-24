@@ -1,0 +1,806 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"parsed1"
+			],
+			[
+				"Dom",
+				"DOMHello"
+			],
+			[
+				"My",
+				"MyContentHandler"
+			],
+			[
+				"attenu",
+				"attenuation"
+			],
+			[
+				"shared",
+				"shared-vector"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"ne",
+				"neighbours"
+			],
+			[
+				"neig",
+				"neig-list"
+			],
+			[
+				"distan",
+				"distances"
+			],
+			[
+				"repe",
+				"repeatedly"
+			],
+			[
+				"rep",
+				"repeatedly"
+			],
+			[
+				"avg",
+				"avg-shared-vector"
+			],
+			[
+				"world-e",
+				"world-depth"
+			],
+			[
+				"reduce",
+				"reduced"
+			],
+			[
+				"sta",
+				"start"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"num",
+				"number?"
+			],
+			[
+				"int",
+				"integer?"
+			],
+			[
+				"get-uni",
+				"get-unique-color"
+			],
+			[
+				"fill",
+				"fill-window"
+			],
+			[
+				"gra",
+				"graph"
+			],
+			[
+				"update",
+				"update-in"
+			],
+			[
+				"app-st",
+				"app-state"
+			],
+			[
+				"mou",
+				"mouse-pos"
+			],
+			[
+				"interse",
+				"intersects"
+			],
+			[
+				"nodes",
+				"nodeset"
+			],
+			[
+				"mouse",
+				"mouse-pos"
+			],
+			[
+				"mem",
+				"memoize"
+			],
+			[
+				"posit",
+				"position"
+			],
+			[
+				"colliders",
+				"colliders-arr"
+			],
+			[
+				"collid",
+				"colliders-arr"
+			],
+			[
+				"prepare",
+				"prepared-node"
+			],
+			[
+				"dfen",
+				"defn"
+			],
+			[
+				"link",
+				"links-set"
+			],
+			[
+				"partic",
+				"particle-system"
+			],
+			[
+				"particle",
+				"particle-system"
+			],
+			[
+				"parti",
+				"partition"
+			],
+			[
+				"get-dem",
+				"get-demo-graph-content"
+			],
+			[
+				"position",
+				"positions"
+			],
+			[
+				"for",
+				"force"
+			],
+			[
+				"callb",
+				"callback-fn"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"et",
+				"extend"
+			],
+			[
+				"defn",
+				"defn"
+			],
+			[
+				"do",
+				"doall"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"w",
+				"whitespace"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"chan",
+				"channel-1"
+			],
+			[
+				"asy",
+				"async-plus"
+			],
+			[
+				"serv",
+				"servant-channel"
+			],
+			[
+				"wo",
+				"worker-count"
+			],
+			[
+				"mate",
+				"material"
+			],
+			[
+				"node",
+				"nodeset"
+			],
+			[
+				"sh",
+				"sphere"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"id",
+				"id-str"
+			],
+			[
+				"man",
+				"manager-gui"
+			],
+			[
+				"Json",
+				"JsonElement"
+			],
+			[
+				"ginko",
+				"ginkoMessage"
+			],
+			[
+				"Biln",
+				"BilNet"
+			],
+			[
+				"bil",
+				"bilgraph"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ssclo",
+				"Set Syntax: Clojure"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"uppr",
+				"Convert Case: Upper Case"
+			],
+			[
+				"co",
+				"Toggle Comment"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"htmle",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ssxm",
+				"Set Syntax: XML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"sscl",
+				"Set Syntax: ClojureScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sstyp",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"cljs",
+				"Set Syntax: ClojureScript"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ssjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssclj",
+				"Set Syntax: ClojureScript"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sub",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sscljs",
+				"Set Syntax: ClojureScript"
+			],
+			[
+				"ss",
+				"Set Syntax: Clojure"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex4/answers-ex4-RDK-Geoffrey_Gaillard.txt",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex3/answers-ex3-RDK-Geoffrey_Gaillard.txt",
+		"/C/Users/Geoffrey/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Geoffrey/workspace/ChildrenCounter/assets/dblp.xml",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex4/q2-DOMHello/DOMHello.java",
+		"/C/Users/Geoffrey/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/answers/RDK_ex2_answers_Geoffrey-Gaillard.txt",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/answers/Sax2Html-q3/MyContentHandler.java",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/answers/Sax2Html-q3/MySAXDBApp.java",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/temperatures.xml",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/db-test.html",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/db.html",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/XMLTest.java",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/SAXDBApp.java",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/db.xml",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/RDK_ex2_answers_Geoffrey-Gaillard.txt",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/nstest.xml",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/ex02.dtd",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/div2.xml",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/ex02a.xml",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/test.xml",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex2Files/test.dtd",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/boids/boids8/boids/circle.m",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/boids/boids8/boids/create_boids.m",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/boids/boids8/boids/follow_velocity.m",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/boids/boids8/boids/get_center.m",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/boids/boids8/boids/avoid_collision.m",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/boids/boids8/boids/get_local_group.m",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/boids/boids8/boids/main.m",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/boids/boids8/boids/get_random_pos.m",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/boids/boids8/boids/update.m",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/boids/boids8/boids/rect.m",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/boids/boids8/boids/Boid.m",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex1Files/ex1_answers-Geoffrey_Gaillard.txt",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex1Files/XMLTest.java",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex1Files/test1.xml",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex1Files/div2.xml",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex1Files/test/t1.xml",
+		"/C/Users/Geoffrey/OneDrive/Documents/M1/RDK/Ex1Files/test.dtd",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/resources/public/js/compiled/gravity.js",
+		"/C/Users/Geoffrey/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Geoffrey/Desktop/Default (Windows).sublime-keymap",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/project.clj",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/src/swarm/tools.cljs",
+		"/C/Users/Geoffrey/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/figwheel_server.log",
+		"/C/Users/Geoffrey/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/Geoffrey/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/src/swarm/view/core.cljs",
+		"/C/Users/Geoffrey/AppData/Roaming/Sublime Text 2/Packages/paredit/Default.sublime-keymap",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/src/swarm/core.cljs",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/src/swarm/view/boids.cljs",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/resources/public/index.html",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/src/swarm/logic/core.cljs",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/.gitignore",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/resources/public/css/style.css",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/README.md",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/swarm/src/swarm/core.cljs",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/resources/public/js/compiled/out/swarm/logic/core.js",
+		"/C/Users/Geoffrey/Documents/GitHub/cljs-swarm/resources/public/js/compiled/swarm.js",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/.gitignore",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/gravity/src/gravity/core.cljs",
+		"/C/Users/Geoffrey/Documents/GitHub/GravityGraph/src/Visualisation3D.ts",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/gravity/src/gravity/view/graph.cljs",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/gravity/resources/public/index.html",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/gravity/src/gravity/view/node.cljs",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/gravity/src/gravity/view/nodeset.cljs",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/gravity/.gitignore",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/gravity/src/gravity/force/worker.cljs",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/gravity/resources/public/css/style.css",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/gravity/figwheel_server.log",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/gravity/resources/public/force-worker/worker.js",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/project.clj",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/src/gravity/core.cljs",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/src/gravity/view/graph.cljs",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/src/gravity/tools.cljs",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/out/gravity/view/graph.js",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/cljs-gravity/project.clj",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/cljs-gravity/src/gravity/core.cljs",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/cljs-gravity/src/gravity/view/graph.cljs",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/cljs-gravity/resources/public/index.html",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/projects/cljs-gravity/resources/public/css/style.css",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/hello-world/resources/public/index.html",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/hello-world/resources/public/css/style.css",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/hello-world/project.clj",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/hello-world/src/hello_world/core.cljs",
+		"/C/Users/Geoffrey/software/cygwin/home/Geoffrey/.emacs.d.custom/init.el",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/out/gravity/tools.js",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/src/gravity/macros.clj",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/temp/events.js",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/src/gravity/view/nodeset.cljs",
+		"/C/Users/Geoffrey/.emacs.d/init.el",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/out/gravity/view/nodeset.js",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/src/gravity/view/node.cljs",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/scripts/brepl.clj",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/src/gravity/force/worker.cljs",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/index.html",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/out/gravity/view/node.cljs",
+		"/C/Users/Geoffrey/Documents/GitHub/GravityGraph/src/Events.ts",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/temp/test.js",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/libs/d3.layout.force3d.js",
+		"/C/Users/Geoffrey/Documents/GitHub/GravityGraph/vendors/d3.layout.force3D.js",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/src/gravity/force/layout3D.cljs",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/force-worker/worker.js",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/out/gravity/force/worker.js",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/out/gravity.js",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/out/gravity/force/worker.cljs",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/src/gravity/force/proxy.cljs",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/src/gravity/demo.cljs",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/src/gravity/force/force.cljs",
+		"/C/Users/Geoffrey/wamp/www/cljs-gravity/src/gravity/force/bridge.cljs",
+		"/C/Users/Geoffrey/wamp/www/gravity/src/force/worker.cljs",
+		"/C/Users/Geoffrey/wamp/www/gravity/force-worker/worker.js",
+		"/C/Users/Geoffrey/wamp/www/gravity/index.html",
+		"/C/Users/Geoffrey/wamp/www/gravity/src/gravity/tools.cljs",
+		"/C/Users/Geoffrey/wamp/www/gravity/src/gravity/nodeset.cljs",
+		"/C/Users/Geoffrey/wamp/www/gravity/src/gravity/node.cljs",
+		"/C/Users/Geoffrey/wamp/www/gravity/src/gravity/graph.cljs",
+		"/C/Users/Geoffrey/wamp/www/gravity/src/gravity/core.cljs",
+		"/C/Users/Geoffrey/wamp/www/gravity/force-worker/project.clj",
+		"/C/Users/Geoffrey/Desktop/VivaGraphJS-master/demos/other/d3sampleTest.html",
+		"/C/Users/Geoffrey/wamp/www/gravity/out/force/worker.js",
+		"/C/Users/Geoffrey/wamp/www/gravity/src/gravity/force.cljs",
+		"/C/Users/Geoffrey/wamp/www/gravity/out/cljs_deps.js",
+		"/C/Users/Geoffrey/wamp/www/gravity/force-worker/src/force/worker.cljs",
+		"/C/Users/Geoffrey/wamp/www/gravity/force-worker/out/gravity.force.worker.js",
+		"/C/Users/Geoffrey/wamp/www/gravity/out/goog/base.js",
+		"/C/Users/Geoffrey/wamp/www/gravity/out/gravity.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"   ",
+			"  ",
+			"   ",
+			"afficher",
+			"-24",
+			"\n",
+			"  ",
+			"characters",
+			"ignorableWhitespace",
+			"doc",
+			"TAG_CREATE",
+			"CREATE",
+			"START",
+			"onWin",
+			"1",
+			"2",
+			"1",
+			"4",
+			"2",
+			"600",
+			"10",
+			"1",
+			"3",
+			"6",
+			"3",
+			"shared-vector",
+			"5",
+			"100",
+			"n",
+			"shared-velocity-vect",
+			"v2",
+			"v1",
+			"avg-shared-vector",
+			"shared-velocity",
+			"avoid-collision",
+			"avoid",
+			"move!",
+			"n",
+			"neigh-list",
+			".-position",
+			".-direction",
+			"**",
+			"+s\"",
+			"//",
+			"ctrl",
+			"ctrl+s",
+			"+s",
+			"ctrl",
+			"+s",
+			"s+",
+			"+s\"",
+			"s\"",
+			"ctrl+s\"",
+			"ctrl+s",
+			"+s",
+			"ctrl+s",
+			"boids-array",
+			"opt",
+			"reduce-in-range",
+			"render",
+			"main",
+			"coll",
+			"THREE",
+			"THREE.",
+			"keywordize_keys",
+			"keywordize-keys",
+			"THREE",
+			"min-distance",
+			"stay_in",
+			"300",
+			"600",
+			"rand",
+			"w",
+			"(/ depth 2)",
+			"(/ width 2)",
+			"1",
+			"negate",
+			"* 2 ",
+			"sum-shared-vector",
+			"1",
+			"din",
+			"pos",
+			"500",
+			"(.-positon item)",
+			"x",
+			"height",
+			"width",
+			":dev",
+			"Exc",
+			"get-unique-mat",
+			"generate-mat",
+			"transp",
+			"tra",
+			"vColor",
+			"1000",
+			"add-ba",
+			"10",
+			"backgrou",
+			"backgroud",
+			"back",
+			"0.65",
+			"5",
+			"0.6",
+			"0.75",
+			"0.5",
+			"tick",
+			"1",
+			"(render",
+			"render ",
+			"render-callback",
+			"render",
+			"render-ca",
+			"scene",
+			"cljs-gravity",
+			"m",
+			"m.",
+			"core",
+			"secretary",
+			"t/",
+			"getTargetObject",
+			".-",
+			"y = -",
+			"y =",
+			"mouse-pos",
+			"getTa",
+			"nodeset",
+			"getTargetObject",
+			"\"[force.worker/log]: \""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\\"",
+			"'",
+			" ",
+			"\\s",
+			"\\n",
+			"BilGraph"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"nodes",
+				"gravity\\src\\gravity\\view\\nodeset.cljs"
+			],
+			[
+				"graph.",
+				"cljs-gravity\\out\\gravity\\view\\graph.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}
